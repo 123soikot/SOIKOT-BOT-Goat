@@ -36,7 +36,7 @@ module.exports = {
 
       const img = `https://graph.facebook.com/100001381266797/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`;
 
-      const msg = `╔╝❮${name}❯╚╗\n━━━━━━━━━━━━━━━━━━━━━━\n𝐍𝐀𝐌𝐄: 𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 𝐁𝐀𝐃𝐎𝐋\n𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍: 𝐈𝐒𝐋𝐀𝐌\n𝐀𝐃𝐃𝐑𝐄𝐒𝐒: 𝐊𝐇𝐔𝐋𝐍𝐀\n𝐆𝐄𝐍𝐃𝐄𝐑: 𝐌𝐀𝐋𝐄\n𝐀𝐆𝐄: 𝟐𝟕\n𝐑𝐄𝐋𝐀𝐓𝐈𝐎𝐍𝐒𝐇𝐈𝐏: 𝐌𝐀𝐑𝐑𝐄𝐃\n𝐖𝐎𝐑𝐊: 𝐉𝐎𝐁\n𝐆𝐌𝐀𝐈𝐋: mohammadbadal757@gmail.com\n𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: https://m.me/MBC.K1NG.007 \n𝐌𝐀𝐒𝐒𝐄𝐍𝐆𝐄𝐑: m.me/100001381266797\n𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏: wa.me/+8801782721761\n𝐈𝐌𝐎: 01782-721761\n𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌: @BADOL_VAI_TERA_REAL_ABBU_OK\n━━━━━━━━━━━━━━━━━━━━━━\n\nBot Prefix: ( . )\nBot Name: 𝐌𝐈𝐌-𝐁𝐎𝐓___//𝟎𝟎𝟕\ngc Name: ${threadName}\nTime:【 ${date} || ${time} \n━━━━━━━━━━━━━━━━━━━━━━`;
+      const msg = `╔╝❮${name}❯╚╗\n━━━━━━━━━━━━━━━━━━━━━━\nNAME: SOIKOT\n𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍: 𝐈𝐒𝐋𝐀𝐌\n𝐀𝐃𝐃𝐑𝐄𝐒𝐒: Bangladesh \n𝐆𝐄𝐍𝐃𝐄𝐑: 𝐌𝐀𝐋𝐄\n𝐀𝐆𝐄: 19+\n𝐑𝐄𝐋𝐀𝐓𝐈𝐎𝐍𝐒𝐇𝐈𝐏: single Pro \n𝐖𝐎𝐑𝐊: student \n𝐆𝐌𝐀il bd757@gmail.com\n𝐅𝐀𝐂𝐄𝐁𝐎𝐎 https://www.facebook.com/mdsakhoyat.hosen.9 \n𝐌𝐀𝐒𝐒𝐄𝐍𝐆𝐄𝐑: Ex 卝 বয়ফ্রেন্ডヅ\n𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏: wa.me/01758307316\n𝐈𝐌𝐎: 01758307316\n𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌: soikot \n━━━━━━━━━━━━━━━━━━━━━━\n\nBot Prefix: ( . )\nBot Name: Ex10-𝐁𝐎𝐓___//\ngc Name: ${threadName}\nTime:【 ${date} || ${time} \n━━━━━━━━━━━━━━━━━━━━━━`;
 
       message.reply({
         body: msg,
